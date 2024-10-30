@@ -11,7 +11,7 @@ Homework-12
 
 [Khá]5. Luyện tập với danh sách : https://scratch.mit.edu/projects/1089183404
 
-[Khá]6. Luyện tập với danh sách : 
+[Khá]6. Luyện tập với danh sách : https://scratch.mit.edu/projects/1089186590
 
 [Giỏi]7. Luyện tập với danh sách : https://scratch.mit.edu/projects/1089108638/
 
