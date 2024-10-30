@@ -19,4 +19,4 @@ Homework-12
 
 [Xuất sắc]9. Luyện tập với danh sách : 
 
-[Xuất sắc]10. Luyện tập với danh sách : 
+[Xuất sắc]10. Luyện tập với danh sách : https://scratch.mit.edu/projects/1089142791/
